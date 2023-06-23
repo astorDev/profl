@@ -23,5 +23,6 @@ doc/api/
 *.js.deps
 *.js.map
 
+.firebase
 .flutter-plugins
 .flutter-plugins-dependencies
