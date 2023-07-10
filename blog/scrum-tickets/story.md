@@ -1,0 +1,12 @@
+# User stories
+
+> It all starts with a story ... a user story
+
+That's a sunny Monday. Your team has just finished the previous sprint. You all gather around in a meeting room. And here comes the product owner. He comes with a pack of sticky notes. He puts them on the whiteboard. The sprint planning begins. The stories describe what your users want. Your team picks them one by one and plays a planning poker after briefly discussing them. The sprint backlog is formed. You understand precisely what to do next and you are ready to start the sprint. But that's in a scrum book. In real life, there's no product owner, because there's no such role in your company. Stories are vague, unstructured, and block each other. You throw a random estimate at them. A manager assigns you a story and you are searching for a person who can demystify that story for you. Let's fix that!
+
+First, let's find a product owner. Let's gather around a whiteboard and start the investigation. Highlight the "user" word for me, please. It means that the ticket should describe a feature from a user perspective. So, let's keep an engineering lead and a software architect out of here. That's not what they are good at. A business analyst, and a project manager with the help of a UI / UX designer. That's a good team to create a story. 
+
+But what in my mind is equally important is a review process. And I don't feel like embedding the whole development team in the process is a rational approach. It will allocate resources a lot more efficiently if at least a first-sight review is performed by a dedicated professional. It's important to review the story from two angles: does it match a global business strategy and is it sufficiently described and technically feasible? The first angle, in ideal, is reviewed by a CTO / CEO / CPO. The second is reviewed by Team Lead, Software Architect, and QA lead.
+
+An ideal user story will describe what a user will have after its implementation. It will both show a stakeholder how their vision is transformed into an actual app behavior and guide a developer to what the end result will look like. User stories are so fundamental that if they are done right everything else will almost automatically fall into place. However, if done badly the whole process will be like building a home on a rotten foundation. So try to set up a user story review process with people from different roles involved. It'll make sure your journey starts with a good story.
+
