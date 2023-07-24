@@ -4,13 +4,13 @@ Let's start with the legend...
 
 That's a sunny Monday. Your team has just finished the previous sprint. You all gather around in a meeting room. And here comes the product owner. He comes with a pack of sticky notes. He puts them on the whiteboard. He explains the common topic of the stories. The sprint planning begins. The stories describe what your users want. Your team picks them one by one and plays a planning poker after briefly discussing them. The sprint backlog is formed. You understand precisely what to do next and you are ready to start the sprint.
 
-But that's in a scrum book. In the real life, there's no product owner, because there's no such role in your company. Stories are unrelated because they come from different departments. They are vague, unstructured, and block each other. You throw a random estimate at them. A manager assigns you a story and you are searching for a person who can demystify that story for you.
+But that's in a scrum book. In real life, there's no product owner, because there's no such role in your company. The stories are unrelated because they come from different departments. They are vague, unstructured, and block each other. You throw a random estimate at them. A manager assigns you a story and you are searching for a person who can demystify that story for you.
 
 The real world could be less painful if we'll have a system ensuring accountability for each ticket type. Let's digest them one by one.
 
 ## Epic
 
-Let's start epic! You may have noticed there's no such word in the legend. Why does it keep appearing in a scrum discussions and in a project management software? Well, in the real world there are also stakeholders behind the scene asking for a high-level overview of a project's steps, ideally with deadlines on a calendar. That often leads to putting user stories on a grant diagram. But that's anti-agile. Instead, epics could be used to provide the experience. They'll map the sprint's progress to a long-term progress overview.
+Let's start epic! You may have noticed there's no such word in the legend. Why does it keep appearing in scrum discussions and in project management software? Well, in the real world, there are also stakeholders behind the scene asking for a high-level overview of a project's steps, ideally with deadlines on a calendar. That often leads to putting user stories on a grant diagram. But that's anti-agile. Instead, epics could be used to provide the experience. They'll map the sprint's progress to a long-term progress overview.
 
 Additionally, epics could provide a starting point for a product owner, narrowing down the scope in which user stories are created. That will work if the epic is written by a person with a bird-view vision of the product. Ideally, the CEO, CTO, or Chief Product Officer. The epic also should be reviewed like all the other ticket types. The project manager or business analyst should review the epic, checking if the epic provides them extensive guidance on what the end result should look like. Checking whether the epic provides them values against which the end result will be evaluated.
 
@@ -18,7 +18,7 @@ If done perfectly, epics could be the common language of the very top management
 
 ## User Story
 
-Back to making the real life closer to the agile legend. First, let's find a product owner. Let's gather around a whiteboard and start the investigation. Highlight the "user" word for me, please. It means that the ticket should describe a feature from a user perspective. So, let's keep an engineering lead and a software architect out of here. That's not what they are good at. A business analyst, and a project manager with the help of a UI / UX designer. That's a good team to create a story. 
+Back to making real life closer to the agile legend. First, let's find a product owner. Let's gather around a whiteboard and start the investigation. Highlight the "user" word for me, please. It means that the ticket should describe a feature from a user perspective. So, let's keep an engineering lead and a software architect out of here. That's not what they are good at. A business analyst, and a project manager with the help of a UI / UX designer. That's a good team to create a story. 
 
 But what in my mind is equally important is a review process. And I don't feel like embedding the whole development team in the process is a rational approach. It will allocate resources a lot more efficiently if at least a first-sight review is performed by a dedicated professional. It's important to review the story from two angles: does it match a global business strategy and is it sufficiently described and technically feasible? The first angle, in ideal, is reviewed by a CTO / CEO / CPO. The second is reviewed by Team Lead, Software Architect, and QA lead.
 
