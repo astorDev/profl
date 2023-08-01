@@ -1,1 +1,3 @@
 - Protocol Driven Development
+- Generative AI learning
+- Modern Scrum learning
