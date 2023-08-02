@@ -25,6 +25,6 @@ What's common about these mistakes is that you either just don't do them or repe
 
 - What's worse than absent security? 
 - A false sense of security.
-- What's worse then a false sense of security?
+- What's worse than a false sense of security?
 - Spending time coding and maintaining the false sense of security.
 
