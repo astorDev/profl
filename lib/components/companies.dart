@@ -13,6 +13,12 @@ class Company {
   });
 }
 
+Company ibis = Company(
+  name: 'Ibisse Blockchain Labs', 
+  logo: 'ibisse.jpeg',
+  description: '''Web3 Outsource company with expertise in DeFI and CeFI services. Helping owners develop their products with maximal efficiency.'''
+);
+
 Company ankr = Company(
   name: 'Ankr',
   logo: 'ankr.png',
