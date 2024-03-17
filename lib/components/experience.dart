@@ -24,6 +24,15 @@ class ExperienceRecord {
   });
 }
 
+ExperienceRecord ibisSenior = ExperienceRecord(
+  title: 'Senior Software Engineer', 
+  company: ibis, 
+  description: '''Worked on CEX project using C# and .NET. 
+Helped to shape vision and development practices for a few microservices''', 
+  location: 'Remote', 
+  period: '2023-2024'
+);
+
 ExperienceRecord ankrLead = ExperienceRecord(
   title: 'Lead Software Engineer', 
   company: ankr,
@@ -101,7 +110,8 @@ class ExperienceWidePointColumn extends StatelessWidget {
   Widget build(BuildContext context) {
     return Column(
       children: [
-        ExperienceWidePoint.first(ankrLead),
+        ExperienceWidePoint.first(ibisSenior),
+        ExperienceWidePoint(ankrLead),
         ExperienceWidePoint(securrencySenior),
         ExperienceWidePoint(pickpointArchitect),
         ExperienceWidePoint(pickpointEngineer),
@@ -118,7 +128,8 @@ class NarrowExperience extends StatelessWidget {
   Widget build(BuildContext context) {
     return Column(
       children: [
-        ExperienceNarrowPoint([ankrLead], isFirst: true),
+        ExperienceNarrowPoint([ibisSenior], isFirst: true),
+        ExperienceNarrowPoint([ankrLead]),
         ExperienceNarrowPoint([securrencySenior]),
         ExperienceNarrowPoint([pickpointArchitect, pickpointEngineer]),
         ExperienceNarrowPoint([wssJunior]),
