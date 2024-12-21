@@ -1,0 +1,27 @@
+- Article Proposa: How I write.
+    - Title Options:
+        - How I write about C# and Flutter.
+        - My before-secrets of tech blog writing.
+    - Intro
+        - I've been publishing an article a week for the last year.
+        - Here's the thing I've learned.
+        - I can not relly похвастаться big audience of reads count. So take the ideas in this articles with caution. I do like every approach I list in this article, but I'm not sure all are effective.
+    - Possible Content:
+        - Order of the writing (Steps)
+            - Possible answer:
+                - Intro-Outro
+                - Assets
+                - Meat
+        - Article a week schedule impact on anxiety
+            - Forces both "publish anyway" and "have a "fat"."
+        - "Design" solutions:
+            - Replicate thoughts on a topic (At least successful branches).
+                - So that a reader understand not just what I've found, but also how.
+- Project idea: CLI tool scanning current folders for markdown files with `type: article` and displaying a "dashboard" (drafts and completes)
+    - Subidea: Probably need a `published` status to reduce the mess.
+        - Probably should set the status when publishing to the personal blog.
+    - Subidea: Join with hugo publishing functionality (sub-cli commands like in harb)
+- Article Proposal: Best Movies I watched in 2024
+- Article/Section Proposal: The thing I didn't learn/understand in 2024 (in my 29)
+    - How to structure investigation (over very abstract things like "what to do?") a.k.a what "work hard" actually means
+- Finrir Proposal: Offline mode temp milestone - offline read, online write
