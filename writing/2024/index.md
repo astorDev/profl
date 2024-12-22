@@ -58,7 +58,7 @@ With 2024 coming to an end it's time to reflect on the Medium articles I wrote t
 
 ### Total
 
-XXX? views
+16'000+ views
 
 ## 🐦 Category 2. Flutter 
 
@@ -94,6 +94,10 @@ XXX? views
 
 1800+ views
 
+### Total
+
+2'800+ views
+
 ## 🐳 Category 3. DevOps and Infrastructure
 
 ### [Talking Shell Scripts: An Architectural Journey](https://medium.com/@vosarat1995/talking-shell-scripts-an-architectural-journey-6d0c642b0613)
@@ -123,6 +127,10 @@ XXX? views
 ### [Postgres VS Mongo: Performance Comparison for semi-structured data](https://medium.com/@vosarat1995/postgres-vs-mongo-performance-comparison-for-semi-structured-data-9a5ec6486cf6)
 
 1600+ views
+
+### Total
+
+3'300+ views
 
 ## Category 4. Others: General Computer Science, Scrum, Productivity
 
@@ -170,6 +178,10 @@ XXX? views
 
 ~840 views
 
+### Total
+
+1'400+ views
+
 ## To the Next Year!
 
 So, what's next? Well, most of the time I write about a problem I am facing right now: be it in my job, with my personal project, or just something that occupies my head for other reasons. With that in mind, this is my forecast for each category:
@@ -179,19 +191,25 @@ So, what's next? Well, most of the time I write about a problem I am facing righ
 - **DevOps**. We'll see how much I will be involved with such things in the next year. For now, it seems like nothing significant is going to change, so the article's pace will stay roughly the same. Perhaps, something should change about the way I present articles since some are getting less traction than I expected. But I don't have anything specific in mind.
 - **Others**. Despite being the category being a loser of 2024 I will unlikely give up on it. Maybe I should tune the way I structure those articles. You will definitely see me experimenting with new approaches in the upcoming year, but again I have nothing specific to tell you yet.
 
-Have something you want to read about from me or have some advice? I would be very happy to hear it and collaborate. And ... claps are appreciated, too! And see you in the next year!
+Have something you want to read about from me or have some advice? I would be very happy to hear it and collaborate. And ... claps are appreciated, too! 👉👈
+
+See you in the next year! 🎄
 
 ---
 
 ### Total Views
 
-| Month         | Views | Reads |
-|---------------|-------|-------|
-|**March**      |       |       |
-|**April**      |       |       |
-|**May**        |       |       |
-|**June**       |       |       |
-|**July**       |       |       |
-|**August**     |       |       |
-|-------------- |-------|-------|
-|**Total**      |       |       |
+| Month         | Views   | Reads  |
+|---------------|---------|--------|
+|**March**      | 13      | 6      |
+|**April**      | 73      | 35     |
+|**May**        | 204     | 135    |
+|**June**       | 1600    | 1000   |
+|**July**       | 1600    | 1000   |
+|**August**     | 3500    | 2200   |
+|**September**  | 4400    | 2600   |
+|**October**    | 4200    | 2400   |
+|**November**   | 3400    | 2000   |
+|**December**   | 4500    | 2800   |
+|-------------- |---------|--------|
+|**Total**      | ~23500  | ~14000 |
