@@ -1,10 +1,10 @@
 # My 2024 on Medium
 
-With 2024 coming to an end it's time to reflect on the Medium articles I wrote this year: what went good, what went bad, what was surprising, and what I learned. I grouped my articles in X categories, so let me walk you through them one by one
+With 2024 coming to an end it's time to reflect on the Medium articles I wrote this year: what went good, what went bad, what was surprising, and what I learned. I grouped my articles in 4 categories, so let me walk you through them one by one
 
 ## 🦄 Category 1. C# and .NET
 
-Well, I'm a professional C# developer, so this is not surprising that this category is the most popular. Surprises came from a performance of a few articles - few have a disappointedly low performance, while others exceeded the expectations. Let's talk about each of them one by one. 
+Well, I'm a professional C# developer, so it is not surprising that this category is the most popular. Surprises came from the performance of a few articles, with some having disappointedly low performance, while others exceeded expectations. Let's talk about each of them one by one. 
 
 ### [Exception Handling in ASP.NET Core](https://medium.com/p/9fded06f8ec1) 
 
