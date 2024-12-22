@@ -4,6 +4,8 @@ With 2024 coming to an end it's time to reflect on the Medium articles I wrote t
 
 ## 🦄 Category 1. C# and .NET
 
+Well, I'm a professional C# developer, so this is not surprising that this category is the most popular. Surprises came from a performance of a few articles - few have a disappointedly low performance, while others exceeded the expectations. Let's talk about each of them one by one. 
+
 ### [Exception Handling in ASP.NET Core](https://medium.com/p/9fded06f8ec1) 
 
 ~10 views
@@ -56,11 +58,15 @@ With 2024 coming to an end it's time to reflect on the Medium articles I wrote t
 
 5200+ views
 
-### Total
+### Summary
 
-16'000+ views
+Those 13 articles in total brought 16'000+ views, exceeding total number of views in all other categories. Of couse, in the next year I will continue this category - it is my craft after all. You can probably expect a longer and more holistic articles in the upcoming year. 
 
-## 🐦 Category 2. Flutter 
+## 🐦 Category 2. Flutter
+
+I use a pretty uncommon tech stack. Unfortunately, there are not much jobs that expect such combination of backend and frontend technology. However, since I'm also developing my personal projects I need a technology that will allow me to create a mobile apps. I spent a lot of time experimenting with various technologies promising that, including native. But nothing gave me even close satisfaction in terms of development experience. 
+
+In this category, article views are even more volatile and unpredictable than with C#. So, let me walk you though the situation here.
 
 ### [Flutter Animations: Getting Started](https://medium.com/@vosarat1995/flutter-animations-getting-started-300a1ed679cc)
 
@@ -96,9 +102,13 @@ With 2024 coming to an end it's time to reflect on the Medium articles I wrote t
 
 ### Total
 
-2'800+ views
+With 8 articles I get a total of 2'800+ views here. Notably, the most performant article here gave almost twise as all the other articles in the category. 
+
+Although, I'm a fan of flutter the number of articles is likely to shrink in the next year. It's just the case that I have a lot going on right now and may not have time for my personal project and this is the only place where I use Flutter
 
 ## 🐳 Category 3. DevOps and Infrastructure
+
+Besides coding, both my job and my personal project require some DevOps efforts. I'm often suprised on the quality of tutorials and guides in this categories. So, from time to time I write my own. Here's the number of view is almost always reverse to my perception of article values. Let me demonstrate it:
 
 ### [Talking Shell Scripts: An Architectural Journey](https://medium.com/@vosarat1995/talking-shell-scripts-an-architectural-journey-6d0c642b0613)
 
@@ -130,9 +140,13 @@ With 2024 coming to an end it's time to reflect on the Medium articles I wrote t
 
 ### Total
 
-3'300+ views
+The 7 articles in the category brought me **3'300+** views in total. As I described the distribution is very odd for me. I think in the upcoming year the pace will be about the same. I'm also not stopping with the unpopular articles, since they at least let me put my thoughts and knowledge on the topic together. And with this category it's really hard to figure out what will take off.
 
 ## Category 4. Others: General Computer Science, Scrum, Productivity
+
+It's hard to describe the last category. I write about anything that occupies my head. Although the views are very moderate, only articles in this section I feel could be long-lasting. By long-lasting I mean that even my grandchildren could find something interesting.
+
+Perhaps, I'm doing something wrong with the titles, though. Or it's just much harder to grab an attention on such broad topics as it's way more competitive. Anyway, here's my thoughts about articles in this section:
 
 ### [I Got Kicked Out Of the AppStore. Now What?](https://medium.com/@vosarat1995/i-got-kicked-out-of-the-appstore-now-what-0208e7b945e7)
 
@@ -180,7 +194,9 @@ With 2024 coming to an end it's time to reflect on the Medium articles I wrote t
 
 ### Total
 
-1'400+ views
+Here with 11 articles I only got 1'400+ views. As in the previous section, the actual views are almost reverse to what I expected. 
+
+Here the next year challenge is probably to continue writing about the thing that bother me, yet finding a way to make it sound more interesting for other people. This section wraps the main part of the article, but let me say just a few final words!
 
 ## To the Next Year!
 
