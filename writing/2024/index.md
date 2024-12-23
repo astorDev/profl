@@ -70,15 +70,15 @@ In this category, article views are even more volatile and unpredictable than wi
 
 ### [Flutter Animations: Getting Started](https://medium.com/@vosarat1995/flutter-animations-getting-started-300a1ed679cc)
 
-~20 views. Ironically, that's the article I had most hopes for. In my view Flutters official guides on animation are very twisted and unclear. So I decided to make my own version. Well, it seems like the topic is not really interesting, though I have no idea. Anyway, moving on...
+~20 views. Ironically, that's the article I had the most hopes for. In my view, Flutter's official guides on animation are very twisted and unclear. So I decided to make my own version. Well, it seems like the topic is not really interesting, though I have no idea. Anyway, moving on...
 
 ### [Deploying Flutter Web with Docker](https://medium.com/@vosarat1995/deploying-flutter-web-with-docker-50ae07d9d7e3)
 
-~50 views. Well, here the situation is a little bit more expected, since probably not much people use Flutter for web development.
+~50 views. Well, here the situation is a little bit more expected, since probably not many people use Flutter for web development.
 
 ### [PWA with Flutter](https://medium.com/@vosarat1995/pwa-with-flutter-369998c5ec81)
 
-~60 views. Similarly PWA seems kind of a niche topic for Flutter community. Although the article helped structuring my own thoughts around the topic and there is so little information on this topic on the web that most of the things in the article could be figured out only through an experiment.
+~60 views. Similarly, PWA seems kind of a niche topic for the Flutter community. Although the article helped structure my own thoughts around the topic there is so little information on this topic on the web that most of the things in the article could be figured out only through an experiment.
 
 ### [Releasing a Flutter IOS App: My AppStore Story](https://medium.com/@vosarat1995/releasing-a-flutter-ios-app-my-appstore-story-bdf933a57e17)
 
@@ -86,7 +86,7 @@ In this category, article views are even more volatile and unpredictable than wi
 
 ### [Flutter DropdownMenu In-Depth](https://medium.com/@vosarat1995/flutter-dropdownmenu-in-depth-49e316779599)
 
-~100 views. Here mediocre performance come as a surprise. `DropdownMenu` is a relatively new widget, coming as a replacement `DropdownMenuButton`. Still in the web there are much more information about the old widget, so I thought a deep article about the new one has a potential to become a hit. Appearently, it doesn't work that way.
+~100 views. Here mediocre performance comes as a surprise. `DropdownMenu` is a relatively new widget, coming as a replacement for `DropdownMenuButton`. Still, on the web, there is much more information about the old widget, so I thought a deep article about the new one has the potential to become a hit. Apparently, it doesn't work that way.
 
 ### [Flutter Overlay: Getting Started + CompositedTransformFollower](https://medium.com/@vosarat1995/flutter-overlay-getting-started-compositedtransformfollower-a14a569e5dfa)
 
@@ -94,11 +94,11 @@ In this category, article views are even more volatile and unpredictable than wi
 
 ### [Flutter Tabs: TabBar and TabBarView.](https://medium.com/@vosarat1995/flutter-tabs-tabbar-and-tabbarview-861fd45b3532)
 
-~250 views. Although the article itself is not very complicated I feel like I've spent a lot of time to come up with a technical solution, underlining this article. I'm glad it paid off with solid amount of views.
+~250 views. Although the article itself is not very complicated I feel like I've spent a lot of time to come up with a technical solution, underlining this article. I'm glad it paid off with a solid amount of views.
 
 ### [Customizing CupertinoDatePicker in Flutter](https://medium.com/@vosarat1995/customizing-cupertinodatepicker-in-flutter-e032aeccbe50)
 
-1800+ views. Here goes the champ! I'm not sure what is so different about CupertinoDatePicker that it brought so much views, but I still appreciated the attention.
+1800+ views. Here goes the champ! I'm not sure what is so different about CupertinoDatePicker that it brought so many views, but I still appreciated the attention.
 
 ### Total
 
