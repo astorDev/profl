@@ -112,31 +112,31 @@ Besides coding, both my job and my personal project require some DevOps efforts.
 
 ### [Talking Shell Scripts: An Architectural Journey](https://medium.com/@vosarat1995/talking-shell-scripts-an-architectural-journey-6d0c642b0613)
 
-~15 views
+~15 views. The article talks about architecturing a system of multiple shell scripts. I couldn't find anything on that on a web so I came up with my own thing. The article obviously didn't take off - perhaps the title should be less cryptic. It's also has a few lord of the rings punchlines and ...well, I'm not doing that again 🙂
 
 ### [Marketplacing a Shell GitHub Action](https://medium.com/@vosarat1995/marketplacing-a-shell-github-action-c021eb74e951)
 
-~30 views
+~30 views. This is a relatively simple tutorial on creating a shell-based GitHub Action and publishing it to the market place. Again maybe I should've made the title less cryptic. 
 
 ### [Nginx and Docker: Getting Started](https://medium.com/@vosarat1995/nginx-and-docker-getting-started-d32d9d6cbb95)
 
-~40 views
+~40 views. Here I have no idea what went wrong. I still feel like the topic should be pretty universal and the other articles out there are mostly poorly written. Maybe nginx is just not as widely used as I thought, or interesting only for particular group of people for whom the "getting started" sounded emberassing. Anyway, the article at least help me to put my own thoughts together.
 
 ### [Advanced Docker Logs with Filebeat and Elasticsearch​](https://medium.com/@vosarat1995/advanced-docker-logs-with-filebeat-and-elasticsearch-30073166a68e)
 
-~230 views
+~230 views. Here performance got significantly better. In my mind, the views are deserved, not much to say here.
 
 ### [Elastic Stack with Docker getting started. Elasticsearch, Kibana, and Filebeat.](https://medium.com/@vosarat1995/elastic-stack-with-docker-getting-started-elasticsearch-kibana-and-filebeat-ebe75fd13041)
 
-~450 views
+~450 views. The article is a pair for the previous one, just with slightly more technologies involved. Surprisingly it didn't scared people, and quite the contrary brought more people in.
 
 ### [PostgreSQL Hostings Prices (some are free)](https://medium.com/@vosarat1995/postgresql-hostings-prices-some-are-free-397c88cc847d)
 
-~1000 views
+~1000 views. It's ridiculously hard to find a non-bs article about any product. Most of the information on the web are promotional, hardly curated and seems AI-generated. No wonder an honest articles got significant number of reads. Well, I was picking something on my own, but decided to share the list with the world. Gladly it paid off.
 
 ### [Postgres VS Mongo: Performance Comparison for semi-structured data](https://medium.com/@vosarat1995/postgres-vs-mongo-performance-comparison-for-semi-structured-data-9a5ec6486cf6)
 
-1600+ views
+1600+ views. Last but not least, the performance comparison article. I was afraid the over-technical title will scare some people away. Gladly, it seems like the honest and specific title worked very well in contrast to my expectation. So here's the unexpected winner of the category.
 
 ### Total
 
