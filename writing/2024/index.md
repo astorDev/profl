@@ -8,35 +8,35 @@ Well, I'm a professional C# developer, so it is not surprising that this categor
 
 ### [Exception Handling in ASP.NET Core](https://medium.com/p/9fded06f8ec1) 
 
-~10 views. Well, I have published the article not so far ago, so the numbers could be deceiving. The article looks very similar to the most performant articles as it covers the fundamental gaps in a ASP .NET Core, suggesting a pretty universal solution.
+~10 views. Well, I published the article not so far ago, so the numbers could be deceiving. The article looks very similar to the most performant articles as it covers the fundamental gaps in ASP .NET Core, suggesting a pretty universal solution.
 
 ### [Web3 With C#: A Practical Example](https://medium.com/p/a713cf3ddb63)
 
-~50 views. A collegue of mine recently sent me this article, with a message "Look, what I've bumped into!". This was both pleasant and ironical, since thie is the least read C# article I have. The modest amount of views is also suprising having that the hype around web3 didn't seem to disappear and the bitcoin was at the time of writing constantly testing the all time high.
+~50 views. A colleague of mine recently sent me this article, with a message "Look, what I've bumped into!". This was both pleasant and ironic since this is the least-read C# article I have. The modest amount of views is also surprising having that the hype around web3 didn't seem to disappear and the bitcoin was at the time of writing constantly testing the all-time high.
 
 ### [.NET Timers: All You Need to Know](https://medium.com/p/d020c73b63a4)
 
-~200 views. .NET eco-system is pretty wierd. ASP .NET Core is, in my opinion, the GOAT of a Web Api frameworks. It's extremely well-documented and thought through. But when it comes to a background services Microsoft just leaves us with "You'll figure it out". Well, in this article, I've tried to do just that. I understand why it doesn't have much views, the whole domain of background jobs seems to be undiscovered so it's hard to find people there. But there is nothing else left other than keep walking the path.
+~200 views. The .NET ecosystem is pretty weird. ASP .NET Core is, in my opinion, the GOAT of Web Api frameworks. It's extremely well-documented and thought-through. But when it comes to background services Microsoft just leaves us with "You'll figure it out". Well, in this article, I've tried to do just that. I understand why it doesn't have many views, the whole domain of background jobs seems to be undiscovered so it's hard to find people there. But there is nothing else left other than keep walking the path.
 
 ### [Creating Strongly-Typed API Clients in .NET](https://medium.com/p/d87a3d7ef016) 
 
-250+ views. As with exception handling, this article is pretty new, so the numbers may not properly reflect the interest. I personally thing the topic is very important, since the situation with http services clients is also very wierd. We do have good and flexible `HttpClient` infrastructure. Still there's no guide on how to use it to get a full client for a specific API. Well, the article is my attempt to make one.
+250+ views. As with exception handling, this article is pretty new, so the numbers may not properly reflect the interest. I personally think the topic is very important since the situation with http services clients is also very weird. We do have a pretty good and flexible `HttpClient` infrastructure. Still, there's no guide on how to use it to get a full client for a specific API. Well, the article is my attempt to make one.
 
 ### [.NET Configuration Architecture: AppSettings](https://medium.com/@vosarat1995/net-configuration-architecture-appsettings-a0a718e8e8e1)
 
-~400 views. This is the least viewed article from the configuration articles cycle. Unlike the other articles this one focuses more on architecture. It tries to clarify how appsettings are frequently misuse and proposes an alternative architectural approach. I would probably get more view if I've named it something like "You are using `appsettings.json` wrong .NET!", but I'm a little allergic to click-baits, so we'll have what we have.
+~400 views. This is the least viewed article from the configuration articles cycle. Unlike the other articles, this one focuses more on architecture. It tries to clarify how appsettings are frequently misused and proposes an alternative architectural approach. I would probably get more views if I've named it something like "You are using `appsettings.json` wrong .NET!", but I'm a little allergic to clickbait, so we'll have what we have.
 
 ### [How C# Dictionary Actually Works](https://medium.com/@vosarat1995/how-c-dictionary-actually-works-47f3a156055b)
 
-~500 views. The article idea was born when I couldn't answer an in-depth question about dictionary in a job interview. Well, now I can and hopefully this article could help you, too. Honestly, I expected a little bit more views to this article since it involves a fundamental topic, which is also relatively common for an interview. But again we have what we have
+~500 views. The article idea was born when I couldn't answer an in-depth question about a dictionary in a job interview. Well, now I can and hopefully, this article could help you, too. Honestly, I expected a little bit more views on this article since it involves a fundamental topic, which is also relatively common for an interview. But again we have what we have
 
 ### [.env in .NET](https://medium.com/p/aa0a8dc4b68c)
 
-600+ views. This is another article about configuration. Although, I'm a little allergic for click-baits I do like fancy names - gladly, the short name didn't stop the articles from getting a solid number of views. In my view .env files are the only missing part in a default .NET configuration, so this is fortunate that there's an interest in this topic.
+600+ views. This is another article about configuration. Although I'm a little allergic to click-bait I do like fancy names - gladly, the short name didn't stop the articles from getting a solid number of views. In my view, .env files are the only missing part in a default .NET configuration, so this is fortunate that there's an interest in this topic.
 
 ### [Kafka with C# and .NET: Getting Started](https://medium.com/@vosarat1995/kafka-with-c-and-net-getting-started-81c72fbba5bb)
 
-750+ views. Well, the article is kind of stands by itself. It gave me solid views, but I needed Kafka just once and there probably not much left to say. I would say the article is the result of me writing a "Getting Started" docs instead of Kafka enginneers. But hey, someone should've done that.
+750+ views. Well, the article kind of stands by itself. It gave me solid views, but I needed Kafka just once and there is probably not much left to say. I would say the article is the result of me writing a "Getting Started" doc instead of Kafka engineers. But hey, someone should've done that.
 
 ### [.NET Configuration Architecture: Getting Started](https://medium.com/@vosarat1995/net-configuration-architecture-getting-started-87526b9fbc68)
 
@@ -44,11 +44,11 @@ Well, I'm a professional C# developer, so it is not surprising that this categor
 
 ### [Making Your OpenAPI (Swagger) Docs UI Awesome in .NET 9](https://medium.com/p/67fbde6b71b5)
 
-1300+ views. That's kind of funny that this article is in the top 4. Of course, I do recommend having Swagger for basically everyone, still writing the articles was a little bit boring. Also, for this article the credits are due to Nick Chapsas, as the fundamentals of the articles are from his video. In the article I just filled what I miss both in the Scalar docs and in the video.
+1300+ views. That's kind of funny that this article is in the top 4. Of course, I do recommend having Swagger for basically everyone, still writing the articles was a little bit boring. Also, for this article, the credits are due to Nick Chapsas, as the fundamentals of the articles are from his video. In the article, I just filled the gaps I found both in the Scalar docs and in the video.
 
 ### [JSON Logs in C# and .NET](https://medium.com/@vosarat1995/json-logs-in-c-and-net-335009e3a984)
 
-1600+ views. There is not much to say about this articles. It took Microsoft a few releases to give us a JSON logger, yet it was not very well done. So in this article I've presented the problems I have and gave an alternative and I think the view are pretty proportional to the impact.
+1600+ views. There is not much to say about this article. It took Microsoft a few releases to give us a JSON logger, yet it was not very well done. So in this article, I've presented the problems I have and gave an alternative and I think the views are pretty proportional to the impact.
 
 ### [Request-Response Logging in ASP .NET Core](https://medium.com/@vosarat1995/request-response-logging-in-asp-net-core-edbb09075149)
 
@@ -56,7 +56,7 @@ Well, I'm a professional C# developer, so it is not surprising that this categor
 
 ### [Environment Variables in ASP .NET Core](https://medium.com/@vosarat1995/environment-variables-in-asp-net-core-d6b4ea6cff9f)
 
-5200+ views. And here comes the GOAT. The story is about the same for the last 3 articles. But the thing is that this is highly scalable as there is not much things Microsoft does poorly with ASP .NET Core. Ironically, as a .NET developer I hope that the articles will become obsolete in the future. That a little terrifying, but I believe I will find something even more complex and vital to fix.
+5200+ views. And here comes the GOAT. The story is about the same for the last 3 articles. But the thing is that this is highly scalable as there are not many things Microsoft does poorly with ASP .NET Core. Ironically, as a .NET developer, I hope that the articles will become obsolete in the future. That is a little terrifying, but I believe I will find something even more complex and vital to fix.
 
 ### Summary
 
