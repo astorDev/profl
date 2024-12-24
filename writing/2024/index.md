@@ -42,7 +42,7 @@ Well, I'm a professional C# developer, so it is not surprising that this categor
 
 ### [.NET Configuration Architecture: Getting Started](https://medium.com/@vosarat1995/net-configuration-architecture-getting-started-87526b9fbc68)
 
-**~800 views**. This is the most viewed article in the .NET configuration cycle. I do think it gives a great jump start into the topic, though I think there are much things to cover left. So you may expect more articles on this topic and the longer ones.
+**~800 views**. This is the most viewed article in the .NET configuration cycle. I do think it gives a great jump start into the topic, though I think there are many things to cover left. So you may expect more articles on this topic and the longer ones.
 
 ### [Making Your OpenAPI (Swagger) Docs UI Awesome in .NET 9](https://medium.com/p/67fbde6b71b5)
 
