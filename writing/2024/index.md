@@ -2,6 +2,8 @@
 
 With 2024 coming to an end it's time to reflect on the Medium articles I wrote this year: what went good, what went bad, what was surprising, and what I learned. I grouped my articles into 4 categories, so let me walk you through them one by one.
 
+![](thumb.png)
+
 ## 🦄 Category 1. C# and .NET
 
 Well, I'm a professional C# developer, so it is not surprising that this category is the most popular. Surprises came from the performance of a few articles, with some having disappointedly low performance, while others exceeded expectations. Let's talk about each of them one by one. 
