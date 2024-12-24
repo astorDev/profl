@@ -72,39 +72,39 @@ In this category, article views are even more volatile and unpredictable than wi
 
 ### [Flutter Animations: Getting Started](https://medium.com/@vosarat1995/flutter-animations-getting-started-300a1ed679cc)
 
-~20 views. Ironically, that's the article I had the most hopes for. In my view, Flutter's official guides on animation are very twisted and unclear. So I decided to make my own version. Well, it seems like the topic is not really interesting, though I have no idea. Anyway, moving on...
+**~20 views**. Ironically, that's the article I had the most hopes for. In my view, Flutter's official guides on animation are very twisted and unclear. So I decided to make my own version. Well, it seems like the topic is not really interesting, though I have no idea. Anyway, moving on...
 
 ### [Deploying Flutter Web with Docker](https://medium.com/@vosarat1995/deploying-flutter-web-with-docker-50ae07d9d7e3)
 
-~50 views. Well, here the situation is a little bit more expected, since probably not many people use Flutter for web development.
+**~50 views.** Well, here the situation is a little bit more expected, since probably not many people use Flutter for web development.
 
 ### [PWA with Flutter](https://medium.com/@vosarat1995/pwa-with-flutter-369998c5ec81)
 
-~60 views. Similarly, PWA seems kind of a niche topic for the Flutter community. Although the article helped structure my own thoughts around the topic there is so little information on this topic on the web that most of the things in the article could be figured out only through an experiment.
+**~60 views.** Similarly, PWA seems kind of a niche topic for the Flutter community. Although the article helped structure my own thoughts around the topic there is so little information on this topic on the web that most of the things in the article could be figured out only through an experiment.
 
 ### [Releasing a Flutter IOS App: My AppStore Story](https://medium.com/@vosarat1995/releasing-a-flutter-ios-app-my-appstore-story-bdf933a57e17)
 
-~60 views. Here the performance is somewhat expected since there is no clear search request leading to the article. Yet I like the article since it is both a personal story and a technical walkthrough.
+**~60 views.** Here the performance is somewhat expected since there is no clear search request leading to the article. Yet I like the article since it is both a personal story and a technical walkthrough.
 
 ### [Flutter DropdownMenu In-Depth](https://medium.com/@vosarat1995/flutter-dropdownmenu-in-depth-49e316779599)
 
-~100 views. Here mediocre performance comes as a surprise. `DropdownMenu` is a relatively new widget, coming as a replacement for `DropdownMenuButton`. Still, on the web, there is much more information about the old widget, so I thought a deep article about the new one has the potential to become a hit. Apparently, it doesn't work that way.
+**~100 views.** Here mediocre performance comes as a surprise. `DropdownMenu` is a relatively new widget, coming as a replacement for `DropdownMenuButton`. Still, on the web, there is much more information about the old widget, so I thought a deep article about the new one has the potential to become a hit. Apparently, it doesn't work that way.
 
 ### [Flutter Overlay: Getting Started + CompositedTransformFollower](https://medium.com/@vosarat1995/flutter-overlay-getting-started-compositedtransformfollower-a14a569e5dfa)
 
-~200 views. The article title sounds pretty technical and complicated. Yet it attracted more people than the `DropdownMenu` article. Anyway, that's an important article, too.
+**~200 views.** The article title sounds pretty technical and complicated. Yet it attracted more people than the `DropdownMenu` article. Anyway, that's an important article, too.
 
 ### [Flutter Tabs: TabBar and TabBarView.](https://medium.com/@vosarat1995/flutter-tabs-tabbar-and-tabbarview-861fd45b3532)
 
-~250 views. Although the article itself is not very complicated I feel like I've spent a lot of time to come up with a technical solution, underlining this article. I'm glad it paid off with a solid amount of views.
+**~250 views.** Although the article itself is not very complicated I feel like I've spent a lot of time to come up with a technical solution, underlining this article. I'm glad it paid off with a solid amount of views.
 
 ### [Customizing CupertinoDatePicker in Flutter](https://medium.com/@vosarat1995/customizing-cupertinodatepicker-in-flutter-e032aeccbe50)
 
-1800+ views. Here goes the champ! I'm not sure what is so different about CupertinoDatePicker that it brought so many views, but I still appreciated the attention.
+**1800+ views.** Here goes the champ! I'm not sure what is so different about CupertinoDatePicker that it brought so many views, but I still appreciated the attention.
 
 ### Total
 
-With 8 articles I get a total of 2'800+ views here. Notably, the most performant article here gave almost twice as all the other articles in the category. 
+With **8 articles** I get a total of **2'800+ views** here. Notably, the most performant article here gave almost twice as all the other articles in the category. 
 
 Although, I'm a fan of Flutter the number of articles is likely to shrink in the next year. It's just the case that I have a lot going on right now and may not have time for my personal project and this is the only place where I use Flutter
 
@@ -114,35 +114,35 @@ Besides coding, both my job and my personal project require some DevOps efforts.
 
 ### [Talking Shell Scripts: An Architectural Journey](https://medium.com/@vosarat1995/talking-shell-scripts-an-architectural-journey-6d0c642b0613)
 
-~15 views. The article talks about architecturing a system of multiple shell scripts. I couldn't find anything on that on the web so I came up with my own thing. The article obviously didn't take off - perhaps the title should be less cryptic. It also has a few lord of the ring punchlines and ...well, I'm not doing that again 🙂
+**~15 views.** The article talks about architecturing a system of multiple shell scripts. I couldn't find anything on that on the web so I came up with my own thing. The article obviously didn't take off - perhaps the title should be less cryptic. It also has a few lord of the ring punchlines and ...well, I'm not doing that again 🙂
 
 ### [Marketplacing a Shell GitHub Action](https://medium.com/@vosarat1995/marketplacing-a-shell-github-action-c021eb74e951)
 
-~30 views. This is a relatively simple tutorial on creating a shell-based GitHub Action and publishing it to the marketplace. Again maybe I should've made the title less cryptic. 
+**~30 views.** This is a relatively simple tutorial on creating a shell-based GitHub Action and publishing it to the marketplace. Again maybe I should've made the title less cryptic. 
 
 ### [Nginx and Docker: Getting Started](https://medium.com/@vosarat1995/nginx-and-docker-getting-started-d32d9d6cbb95)
 
-~40 views. Here I have no idea what went wrong. I still feel like the topic should be pretty universal and the other articles out there are mostly poorly written. Maybe nginx is just not as widely used as I thought, or interesting only for a particular group of people for whom the "getting started" sounded embarrassing. Anyway, the article at least helps me to put my own thoughts together.
+**~40 views.** Here I have no idea what went wrong. I still feel like the topic should be pretty universal and the other articles out there are mostly poorly written. Maybe nginx is just not as widely used as I thought, or interesting only for a particular group of people for whom the "getting started" sounded embarrassing. Anyway, the article at least helps me to put my own thoughts together.
 
 ### [Advanced Docker Logs with Filebeat and Elasticsearch​](https://medium.com/@vosarat1995/advanced-docker-logs-with-filebeat-and-elasticsearch-30073166a68e)
 
-~230 views. Here performance got significantly better. In my mind, the views are deserved, not much to say here.
+**~230 views.** Here performance got significantly better. In my mind, the views are deserved, not much to say here.
 
 ### [Elastic Stack with Docker getting started. Elasticsearch, Kibana, and Filebeat.](https://medium.com/@vosarat1995/elastic-stack-with-docker-getting-started-elasticsearch-kibana-and-filebeat-ebe75fd13041)
 
-~450 views. The article is a pair of the previous one, just with slightly more technologies involved. Surprisingly it didn't scare people, and quite the contrary brought more people in.
+**~450 views.** The article is a pair of the previous one, just with slightly more technologies involved. Surprisingly it didn't scare people, and quite the contrary brought more people in.
 
 ### [PostgreSQL Hostings Prices (some are free)](https://medium.com/@vosarat1995/postgresql-hostings-prices-some-are-free-397c88cc847d)
 
-~1000 views. It's ridiculously hard to find a non-bs article about any product. Most of the information on the web is promotional, hardly curated, and seems AI-generated. No wonder an honest article got a significant number of reads. Well, I was picking something on my own but decided to share the list with the world. Gladly it paid off.
+**~1000 views.** It's ridiculously hard to find a non-bs article about any product. Most of the information on the web is promotional, hardly curated, and seems AI-generated. No wonder an honest article got a significant number of reads. Well, I was picking something on my own but decided to share the list with the world. Gladly it paid off.
 
 ### [Postgres VS Mongo: Performance Comparison for semi-structured data](https://medium.com/@vosarat1995/postgres-vs-mongo-performance-comparison-for-semi-structured-data-9a5ec6486cf6)
 
-1600+ views. Last but not least, is the performance comparison article. I was afraid the over-technical title would scare some people away. Gladly, it seems like the honest and specific title worked very well in contrast to my expectations. So here's the unexpected winner of the category.
+**1600+ views**. Last but not least, is the performance comparison article. I was afraid the over-technical title would scare some people away. Gladly, it seems like the honest and specific title worked very well in contrast to my expectations. So here's the unexpected winner of the category.
 
 ### Total
 
-The 7 articles in the category brought me **3'300+** views in total. As I described the distribution is very odd for me. I think in the upcoming year the pace will be about the same. I'm also not stopping with the unpopular articles, since they at least let me put my thoughts and knowledge on the topic together. And with this category, it's really hard to figure out what will take off.
+The **7 articles** in the category brought me **3'300+ views** in total. As I described the distribution is very odd for me. I think in the upcoming year the pace will be about the same. I'm also not stopping with the unpopular articles, since they at least let me put my thoughts and knowledge on the topic together. And with this category, it's really hard to figure out what will take off.
 
 ## Category 4. Others: General Computer Science, Scrum, Productivity
 
@@ -152,51 +152,51 @@ Perhaps, I'm doing something wrong with the titles, though. Or it's just much ha
 
 ### [My mind-calming tactic](https://medium.com/@vosarat1995/inbox-my-fresh-productivity-tool-7213c89b64be)
 
-~10 views. This is my only attempt into writing about productivity, so far. As you may see, it's doing poorly. Well, I'm not too proud of the article to be honest. The title is also cryptic as in this period I was trying to go for mysterious titles. Well, you'll probably see another attempt for me in the next year.
+**~10 views.** This is my only attempt into writing about productivity, so far. As you may see, it's doing poorly. Well, I'm not too proud of the article to be honest. The title is also cryptic as in this period I was trying to go for mysterious titles. Well, you'll probably see another attempt for me in the next year.
 
 ### [Binary to text encoding: Hex](https://medium.com/@vosarat1995/binary-to-text-encoding-hex-03c8449ff08a)
 
-~10 views. That's the first article in the cycle about computer science fundamentals. I should've probably framed it slightly differently. Even I can't tell what's the article about looking at the title - that's probably something I should take care of if I want to continue with such an article. And spoiler alert: I do.
+**~10 views.** That's the first article in the cycle about computer science fundamentals. I should've probably framed it slightly differently. Even I can't tell what's the article about looking at the title - that's probably something I should take care of if I want to continue with such an article. And spoiler alert: I do.
 
 ### [Scrum Main Pitfall with ChatGPT](https://medium.com/@vosarat1995/scrum-main-pitfall-with-chatgpt-be9da50a8bf9)
 
-~10 views. This was a fun experiment. I was trying to formulate my thoughts about the blind spot of Scrum. I tried ChatGPT to formulate an article and I decided to make the article as my comments on ChatGPT thoughts. Well, this is one of the articles where I thought embedding a trending thing would boost the view, but the reality was quite the opposite.
+**~10 views.** This was a fun experiment. I was trying to formulate my thoughts about the blind spot of Scrum. I tried ChatGPT to formulate an article and I decided to make the article as my comments on ChatGPT thoughts. Well, this is one of the articles where I thought embedding a trending thing would boost the view, but the reality was quite the opposite.
 
 ### [I Got Kicked Out Of the AppStore. Now What?](https://medium.com/@vosarat1995/i-got-kicked-out-of-the-appstore-now-what-0208e7b945e7)
 
-~10 views. Here I expected that the views would be mediocre. The article is about my personal project and my relationships with the AppStore. I don't know if it was possible to make the article more interesting to a broader audience, but here we go.
+**~10 views.** Here I expected that the views would be mediocre. The article is about my personal project and my relationships with the AppStore. I don't know if it was possible to make the article more interesting to a broader audience, but here we go.
 
 ### [Bitcoin Cryptography Beyond Blockchain.](https://medium.com/@vosarat1995/bitcoin-cryptography-beyond-blockchain-fc3b3d4e7ed1)
 
-~10 views. This article was probably the most mind-boggling to write. It finally completed my understanding of the way Bitcoin works. Again I expected the word bitcoin to attract slightly more people. But it was very interesting, regardless of the views.
+**~10 views.** This article was probably the most mind-boggling to write. It finally completed my understanding of the way Bitcoin works. Again I expected the word bitcoin to attract slightly more people. But it was very interesting, regardless of the views.
 
 ### [How I Started My 3-Year Software Development Side Hustle](https://medium.com/@vosarat1995/how-i-started-my-3-year-software-development-side-hustle-f4aae0fc3cad)
 
-~25 views. This is another personal article. It performed just slightly better, I guess that's due to the more elaborate article. Even with the mediocre views, I guess the cool part is that I should be able to show this article through generations to come. I guess it could still be relevant to my grandchildren let's say. With this perspective, the views doesn't seem to mean that much.
+**~25 views.** This is another personal article. It performed just slightly better, I guess that's due to the more elaborate article. Even with the mediocre views, I guess the cool part is that I should be able to show this article through generations to come. I guess it could still be relevant to my grandchildren let's say. With this perspective, the views doesn't seem to mean that much.
 
 ### [Microservice Architecture Case Study: Hidden Category](https://medium.com/@vosarat1995/microservice-architecture-case-study-hidden-category-2c134562bdc1)
 
-~30 views. This is also an article I bet more on. I think that's a great starting point for a discussion on how to organize data exchange in a microservice architecture. The topic is personally intriguing to me, so I'd most likely change the approach, but continue articles on the topic.
+**~30 views.** This is also an article I bet more on. I think that's a great starting point for a discussion on how to organize data exchange in a microservice architecture. The topic is personally intriguing to me, so I'd most likely change the approach, but continue articles on the topic.
 
 ### [How to talk in 1s and 0s?](https://medium.com/@vosarat1995/how-to-talk-in-1s-and-0s-e3d8a852a2b0)
 
-~80 views. This is also a topic on basic computer science. Gladly, here the views are at least slightly better. It was also important for me to scratch my head around a topic like that. It also gave me a little more insight into the topic.
+**~80 views.** This is also a topic on basic computer science. Gladly, here the views are at least slightly better. It was also important for me to scratch my head around a topic like that. It also gave me a little more insight into the topic.
 
 ### [Code documentation: Drawings VS Pseudo-Code VS Bulletpoints VS Mermaid](https://medium.com/@vosarat1995/code-documentation-drawings-vs-pseudo-code-vs-bulletpoints-vs-mermaid-d6fa86c4a7f4)
 
-~90 views. This is the only article this year, which changed my own perspective on things. To write the article I conducted an experiment comparing the methods of creating a software system architecture description. My personal bet was on hand drawing. Yet, the most boring tool of bullet points came first. Now, I always remind myself to not overcomplicate documentation. Text is the King!
+**~90 views.** This is the only article this year, which changed my own perspective on things. To write the article I conducted an experiment comparing the methods of creating a software system architecture description. My personal bet was on hand drawing. Yet, the most boring tool of bullet points came first. Now, I always remind myself to not overcomplicate documentation. Text is the King!
 
 ### [Best Postman Alternative](https://medium.com/@vosarat1995/best-postman-alternative-5890e3e9ddc7)
 
-~300 views. In a C# section, I mentioned how odd that there are no common best practices for creating an http client. This is even more surprising when we talk about language-agnostic tooling. This article is a tribute to my favorite tool: HttpYac. Besides giving the tool basics I also discovered some new techniques of the tool I didn't know before starting the article.
+**~300 views.** In a C# section, I mentioned how odd that there are no common best practices for creating an http client. This is even more surprising when we talk about language-agnostic tooling. This article is a tribute to my favorite tool: HttpYac. Besides giving the tool basics I also discovered some new techniques of the tool I didn't know before starting the article.
 
 ### [Material 3 (You) Typography Cheatsheet](https://medium.com/@vosarat1995/material-3-you-typography-cheatsheet-ffc58c540181)
 
-~840 views. This is the only well-read article where the main audience is not programmers. Initially, I thought this article would mostly attract someone with Flutter stack. Unexpectedly, the article was mostly useful for designers. There's not much to say about the article itself - I mostly structured the typography information from the official website into a compact and visual cheatsheet.
+**~840 views.** This is the only well-read article where the main audience is not programmers. Initially, I thought this article would mostly attract someone with Flutter stack. Unexpectedly, the article was mostly useful for designers. There's not much to say about the article itself - I mostly structured the typography information from the official website into a compact and visual cheatsheet.
 
 ### Total
 
-Here with 11 articles I only got 1'400+ views. As in the previous section, the actual views are almost reversed from what I expected. 
+Here with **11 articles** I only got **1'400+ views**. As in the previous section, the actual views are almost reversed from what I expected. 
 
 Here the next year's challenge is probably to continue writing about the thing that bothers me, yet finding a way to make it sound more interesting for other people. This section wraps up the main part of the article, but let me say just a few final words!
 
