@@ -6,4 +6,4 @@ I'm excited to see what my team and I will build this year! Our B2B product aims
 
 With the new role comes a new photo! 😊
 
-![](thumb.png)
+![](thumb.jpeg)
