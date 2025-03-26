@@ -4,7 +4,7 @@
 
 ## Open Source Projects: 2 Born, 3 Fleshing Out 🥩
 
-I continue my open-source development efforts. In Q1, I've started two projects: `confi` helping you with configuration management and `persic` containing various persistence (read database) related stuff. 3 projects (`nist`, `versy`, and `nice-shell`) received some updates, improvements, and new functionality.
+I continue my open-source development efforts. In Q1, I've started two projects: `confi` helping you with configuration management and `persic` containing various persistence (read "database") related stuff. 3 projects (`nist`, `versy`, and `nice-shell`) received some updates, improvements, and new functionality.
 
 The most developed so far is NIST (a Non-toxic REST brother) You can check it out on [Github](https://github.com/astorDev/nist)! I would appreciate if you give it a star! ⭐
 
