@@ -1,6 +1,12 @@
 # My Q1 2025 in a Nutshell 🌰
 
-## Work:
+With Q1 comming to an end, I want to share with you a quick recap of what has happened in my life. I hope it will not be too boring and feel free to ask any questions about what you have seen in this post!
+
+## Work: an MVP is comming soon!
+
+This quarter was the first quarter that I spent entirely as a team lead. This is an interesting journey: Bussiness-part of the team is busy interviewing customers, defining requirements and searching for the best market fit, while tech-bros, including myself, continue to strengthening our platform fundamentals and adding new features.
+
+An MVP is comming soon (by corporate standards 😄). Well, AI-prototypes of our system were sick and now we are trying to make them a reality!
 
 ## Open Source Projects: 2 Born, 3 Fleshing Out 🥩
 
